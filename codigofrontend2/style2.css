@@ -1,0 +1,91 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+*{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.sobre{
+    text-align: center;
+    color: #fff;
+    background-color: #23232e;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+    
+}
+
+li{
+   margin: 5px;
+   letter-spacing: 2px;
+}
+a{
+    color: #fff;
+    text-decoration: none;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+h1{
+    letter-spacing: 2px;
+}
+
+a:hover{
+    opacity: 80%;
+}
+
+.p{
+    font-size: 20px;
+    line-height: 30px;
+    margin: 20px;
+}
+
+.p2{
+    font-size: 20px;
+    line-height: 30px;
+    
+}
+.txtimg{
+    display: flex;
+    margin: 20px;
+}
+
+.neyy{
+    width: 200%;
+    margin: 20px;
+}
+
+.png1{
+    width: 5%;
+    margin: 10px;
+    box-shadow: h-offset v-offset blur-radius spread-radius color;
+ }
+ 
+ .png2{
+     width: 5%; 
+     margin: 10px; 
+     box-shadow: h-offset v-offset blur-radius spread-radius color;
+ }
+ 
+ .png3{
+     width: 5%;
+     margin: 10px;  
+     box-shadow: h-offset v-offset blur-radius spread-radius color;
+ }
+ .rodapé{
+    background-color: #23232e;
+    display: flex;
+    justify-content: center;
+    padding: 70px;
+    margin: 0px;
+}
